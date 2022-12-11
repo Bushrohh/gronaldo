@@ -1,0 +1,241 @@
+body{
+    padding-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.head{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.searchbar{
+    display: flex;
+    justify-content: space-between;
+    border-radius:99px;
+    border: 1px solid rgb(204, 204,204);
+    width: 50%;
+    height: 50px;
+    margin-right: 220px;
+    padding-left: 8px;
+    padding-right: 5px;
+}
+.icons{
+    display: flex;
+    margin-top: 17px;
+}
+.icon{
+    margin-right: 16px;
+    color: rgb(173, 162, 162);
+}
+.head2{
+    display: flex;
+    margin-top:4px;
+    color: rgb(173, 162, 162);
+    margin-bottom: 2px;
+}
+.space{
+    margin-right: 23px;    
+}
+.tool{
+    padding-left: 190px;
+}
+.line{
+    color: rgb(173, 179, 173);
+    width: 100%;
+}
+.underh{
+    color: rgb(173, 162, 162);
+    font-size:100;
+}
+.portu{
+    display: flex;
+    margin-top:0px;
+}
+.bold{
+    font-size: 30px;
+    margin: 0px;
+}
+.ellipsis{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.button{
+    border-radius: 99px;
+    background-color: rgb(147, 147, 243);
+    border: none;
+    margin-left: 30px;
+    margin-top: 30px;
+    padding:15px;
+    color: rgb(36, 36, 247);
+}
+.but{
+    border-radius: 99px;
+    background-color: rgb(147, 147, 243);
+    border: 1px solid black;
+    margin-left: 30px;
+    margin-top: 30px;
+    padding: 15px;
+    color: rgb(36, 36, 247);
+}
+
+.christain{
+    display: flex;
+}
+.roplay{
+ border-top-left-radius: 15px;
+ border-top-right-radius: 15px; 
+}
+.ronaldos{
+    display: flex;
+    border-radius: 60px;
+}
+.ronaldo1{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.ronaldo2{
+    display: flex;
+    flex-direction: column;
+}
+.ronaldo3{
+    margin-top: -80px;
+}
+.imageicon{
+    margin-top: -33px;
+    padding-left: 210px;
+    color: white;
+}
+.portuguese{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(204, 204,204);
+    border-radius: 15px;
+    margin-left: 2.5rem;
+}
+.countrylogo{
+    display: flex;
+}
+.tim{
+    font-size: small;
+    font-weight: bolder;
+    padding-left: 7px;  
+    color:rgb(39, 38, 38);
+}
+.age{
+    margin-left:2.5rem;
+    border:1px solid;
+    border-radius: 15px;
+    color: rgb(36, 36, 247);
+    background-color: rgb(147, 147, 243);
+}
+.networth{
+    margin-left:2.5rem;
+    border:1px solid rgb(204, 204,204);
+    border-radius: 15px;
+}
+.mirror{
+    display: flex;
+    justify-content: space-between;
+}
+.net{
+    font-size: small;
+    font-weight: bolder;
+    padding-left: 7px;
+    color:rgb(39, 38, 38);
+    padding-bottom: 2rem;
+}
+.http{
+    display: flex;
+}
+.marc{
+    color: red;
+}
+.camp{
+    color:blue;
+}
+.whole{
+    display: flex;
+    justify-content: space-between;
+    height:100px;
+} 
+.button2{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(204, 204,204);
+}
+.bold{
+    color: black;
+}
+.acting{
+    margin-left: 80px;
+    border-left: 1px solid rgb(204, 204,204);
+    padding-left: 10px;
+    width:40%;
+} 
+.beside{
+    display: flex;
+    border-bottom: 1px solid rgb(204, 204,204);    
+}
+.image{
+    padding-left: 15px;
+    border-radius: 1rem;
+    margin-top:9px;
+}
+.tough{
+    display: flex;
+    border-top: 1px solid rgb(204, 204,204);
+    margin-top: 0px;
+}
+.col{
+    display: flex;
+    flex-direction:column;
+}
+.football{
+    margin-left: 20px;
+    border-left: 1px solid rgb(204, 204,204);
+    padding-left: 8px;
+}
+.shift{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    border-left: 1px solid rgb(204, 204,204);
+    padding-left: 8px;
+}
+.apart{
+    display: flex;
+    
+}
+.bother{
+    border-bottom: 1px solid rgb(204, 204,204);
+}
+.table{
+    border-bottom: 1px solid rgb(204, 204,204);
+    display: flex;
+    justify-content: space-between;
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(204, 204,204);
+}
+
+.font{
+    font-size: small;
+    color:rgb(173, 179, 173);
+}
+.brood{
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 15px;
+}
+button{
+    border-radius: 99px;
+    background-color: rgb(173, 179, 173);
+    
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
