@@ -1,5 +1,5 @@
-body{
-    padding-left: 30px;
+.body{
+    padding-left: 50px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
 }
@@ -61,12 +61,14 @@ body{
 }
 .button{
     border-radius: 99px;
-    background-color: rgb(147, 147, 243);
+    background-color: rgb(204, 204, 204);
     border: none;
     margin-left: 30px;
     margin-top: 30px;
     padding:15px;
     color: rgb(36, 36, 247);
+    display:flex;
+    justify-content: center;
 }
 .but{
     border-radius: 99px;
@@ -79,6 +81,9 @@ body{
 }
 
 .christain{
+    display: flex;
+}
+.bod{
     display: flex;
 }
 .roplay{
@@ -146,6 +151,7 @@ body{
 }
 .http{
     display: flex;
+    color: #464545;
 }
 .marc{
     color: red;
@@ -167,17 +173,17 @@ body{
     color: black;
 }
 .acting{
-    margin-left: 80px;
+    margin-left: 60px;
     border-left: 1px solid rgb(204, 204,204);
     padding-left: 10px;
-    width:40%;
+    width:30%;
 } 
 .beside{
     display: flex;
     border-bottom: 1px solid rgb(204, 204,204);    
 }
 .image{
-    padding-left: 15px;
+    /* padding-left: 15px; */
     border-radius: 1rem;
     margin-top:9px;
 }
@@ -204,7 +210,9 @@ body{
 }
 .apart{
     display: flex;
-    
+    border-right: 1px solid rgb(204, 204,204);
+    border-bottom: 1px solid rgb(204, 204,204);
+    width: 70%;
 }
 .bother{
     border-bottom: 1px solid rgb(204, 204,204);
@@ -232,10 +240,185 @@ body{
 }
 button{
     border-radius: 99px;
-    background-color: rgb(173, 179, 173);
-    
+    background-color: rgb(204, 204, 204);
+    display: flex;
+    align-items: center;
 }
 .center{
     display: flex;
     justify-content: center;
+}
+.cent{
+    display: flex;
+    justify-content: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+.morenews{
+    display: flex;
+    /* justify-content: center; */
+    border-bottom: 1px solid rgb(204, 204, 204);
+   margin-right: 60px;
+    margin-top: 8px;
+}
+.question{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(204, 204, 204);
+}
+.maintain{
+    width: 65%;
+    margin-top: 55rem;
+}
+.v{
+    margin-bottom: 0px;
+}
+.vid{
+    display: flex;
+}
+.hundred{
+    margin-top: 5px;
+    color: rgb(204, 204, 204);
+    padding-top: 10px;
+    padding-left: 7px;
+}
+.hun{
+    border-radius: 9px;
+}
+.page{
+    border-bottom: 1px solid rgb(204, 204, 204);
+}
+.part{
+    display: flex;
+    justify-content: space-between;
+}
+.rgb{
+    color:rgb(73, 71, 71);
+    padding-left: 6px;
+}
+.merge{
+    margin-right: 60px;
+}
+.time{
+    border-radius: 99px;
+    color: white;
+    background-color: rgb(173, 162, 162);
+    /* padding-right: 2px;
+    padding-left: 2px; */
+    margin-right: 60px;
+margin-top: 0px;
+margin-bottom: 6px;
+}
+.cenn{
+    display: flex;
+    justify-content: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 0px;
+}
+.tabs{
+    display: flex;
+}
+.tab{
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 20px;
+    /* padding-left: 8px; */
+}
+.end{
+    display: flex;
+    justify-content: last baseline;
+    padding-top: 70px;
+}
+.small{
+    font-size: small;
+    color: #464545;
+    margin-top: 0px;
+}
+.cam{
+    margin-top: 0px;
+    color: blue;
+    padding-bottom: 0px;
+}
+.https{
+    display: flex;
+    justify-content: space-between;
+    color: #464545;
+    border-top: 1px solid rgb(204, 204, 204);
+}
+.phone{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid rgb(204, 204, 204);
+    padding-top: 20px;
+}
+.phones{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid rgb(204, 204, 204);
+    border-bottom: 1px solid rgb(204, 204, 204);
+    padding-top: 20px;
+}
+.ima{
+    border-radius:7px;
+}
+.immage{
+    display: flex;
+}
+.liinn{
+    display: flex;
+    justify-content: flex-end;
+}
+.mag{
+    padding-top: 13px;
+    padding-right: 6px;
+}
+.lass{
+    display: flex;
+    justify-content: space-between;
+}
+.button3{
+    border-radius: 75px;
+    background-color: rgb(204, 204, 204);
+    display: flex;
+    align-items: center;
+    padding-left:70px;
+    padding-right: 70px;
+    width: 50%;
+}
+.cennn{
+    display: flex;
+    justify-content: center;
+    /* padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 0px; */
+}
+.goog{
+    
+    margin-bottom: 0px;
+}
+.google{
+    display: flex;
+   flex-direction:column;
+}
+.numberrs{
+    margin-top: 0;
+    padding-left: 30px;
+    
+}
+.foot{
+    display: flex;
+    padding-left:50px;
+}
+.nigeria{
+    border-right: 1px solid rgb(204, 204, 204);
+    
+}
+footer{
+    background-color: rgb(173, 179, 173);
+    padding-left: 0px;
+}
+.gb{
+    padding-left: 50px;
+    color: rgb(68, 63, 63);
 }
